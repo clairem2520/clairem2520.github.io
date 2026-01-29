@@ -4,7 +4,7 @@ collection: publications
 category: journal_conference
 permalink: /publication/motor_ability
 excerpt: #''
-date: 2024-10
+date: 2024-10-27
 venue: 'ACM SIGACCESS Conference on Computers and Accessibility'
 slidesurl: #'https://academicpages.github.io/files/slides1.pdf'
 paperurl: #'https://academicpages.github.io/files/paper1.pdf'

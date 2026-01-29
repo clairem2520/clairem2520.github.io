@@ -4,7 +4,7 @@ collection: publications
 category: journal_conference
 permalink: /publication/ability_heuristics
 excerpt: #''
-date: 2026-04
+date: 2026-04-13
 venue: 'CHI Conference on Human Factors in Computing Systems'
 slidesurl: #'https://academicpages.github.io/files/slides1.pdf'
 paperurl: #'https://academicpages.github.io/files/paper1.pdf'
