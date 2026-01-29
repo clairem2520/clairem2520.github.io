@@ -1,5 +1,5 @@
 ---
-title: "Characterizing ``Motor Ability'' for Ability-Based Design"
+title: "Characterizing “Motor Ability” for Ability-Based Design"
 collection: publications
 category: journal_conference
 permalink: /publication/motor_ability
