@@ -23,7 +23,7 @@ repository               : "clairem2520/clairem2520.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/profile_photo.jpg" 
+  avatar           : "profile_photo.png" 
   name             : "Claire Mitchell"
   pronouns         : "she/her"  
   bio              : "PhD Student in Information Science at the University of Washington | ACE Lab | NSF GRFP Fellow"
