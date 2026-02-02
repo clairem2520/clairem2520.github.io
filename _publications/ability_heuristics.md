@@ -3,7 +3,7 @@ title: "Ability Heuristics for Conducting Accessibility Inspections"
 collection: publications
 category: journal_conference
 permalink: /publication/ability_heuristics
-excerpt: #''
+excerpt: 'A set of nine accessibility heuristics based in ability-based design for conducting accessibility inspections.'
 date: 2026-04-13
 venue: 'CHI Conference on Human Factors in Computing Systems'
 slidesurl: #'https://academicpages.github.io/files/slides1.pdf'
