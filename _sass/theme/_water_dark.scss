@@ -57,3 +57,7 @@ html[data-theme="dark"] {
     --global-text-color-light           : #{$text-muted};
     --global-thead-color                : #{$background-lighter};
 }
+
+footer {
+  color: #{$text};
+}

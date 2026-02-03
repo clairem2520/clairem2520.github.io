@@ -3,7 +3,7 @@ title: "Customized Mid-Air Gestures for Accessibility: A $B Recognizer for Multi
 collection: publications
 category: journal_conference
 permalink: /publication/dollar_B
-excerpt: #''
+excerpt: 'An algorithm for gesture personalization for wearable signals based on the $1 recognizer.'
 date: 2024-09-12
 venue: 'arXiv'
 slidesurl: #'https://academicpages.github.io/files/slides1.pdf'

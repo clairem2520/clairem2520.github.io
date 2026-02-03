@@ -3,7 +3,7 @@ title: "Physiological Signals for Ability-Based Design"
 collection: publications
 category: workshops
 permalink: /publication/motor_ability
-excerpt: #''
+excerpt: 'How to integrate physiological signals into ability-based design and beyond.'
 date: 2024-05-11
 venue: 'PhysioCHI: Towards Best Practices for Integrating Physiological Signals in HCI'
 slidesurl: #'https://academicpages.github.io/files/slides1.pdf'
