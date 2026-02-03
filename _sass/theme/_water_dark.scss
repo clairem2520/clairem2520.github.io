@@ -58,6 +58,8 @@ html[data-theme="dark"] {
     --global-thead-color                : #{$background-lighter};
 }
 
-footer {
-  color: #{$text};
-}
+/* Footer styling for dark mode */
+html[data-theme="dark"] {
+  footer {
+    color: #{$text};
+  }}
