@@ -3,7 +3,6 @@ title: "Ability Heuristics"
 excerpt: "A set of nine heuristics for conducting accessibility inspections<br/>"
 collection: projects
 ---
-# Ability Heuristics
 
 ## Adaptability
 
