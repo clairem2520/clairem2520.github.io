@@ -3,7 +3,6 @@ title: "Ability Heuristics"
 excerpt: "A set of nine heuristics for conducting accessibility inspections<br/>"
 collection: projects
 ---
-
 ## Adaptability
 
 Systems should adapt or be adaptable to a user’s dynamic situated abilities to reduce user burden and improve user-system-context fit. Options for personalization and customization should be apparent, accessible, flexible, expressive, predictable, changeable, undoable, and shareable, applicable to both functional and cosmetic aspects of interfaces.
