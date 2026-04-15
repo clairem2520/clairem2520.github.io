@@ -5,6 +5,8 @@ collection: projects
 ---
 The accessibility of interactive technologies is often evaluated using checklists that are low-level, numerous, and platform-specific. Such checklists are typically used by accessibility experts, leaving everyday designers and developers with little support for assessing their own interfaces. To make accessibility evaluations easier to conduct, we devised a set of nine “ability heuristics” that prompt designers to engage with accessibility throughout the design process. Below are the nine heuristics we designed with their respective definitions. 
 
+View the paper that describes and validates the heuristics [here](https://doi.org/10.1145/3772318.3791504).
+
 ## Adaptability
 
 Systems should adapt or be adaptable to a user’s dynamic situated abilities to reduce user burden and improve user-system-context fit. Options for personalization and customization should be apparent, accessible, flexible, expressive, predictable, changeable, undoable, and shareable, applicable to both functional and cosmetic aspects of interfaces.
@@ -61,4 +63,4 @@ Systems should provide accessible help and support. Methods should be provided t
 
 ### Referencing the heuristics
 When referencing the heuristics, please use the following citation:
-> Claire L. Mitchell, Junhan Kong, Jesse J Martinez, Shaun K. Kane, Amy J. Ko, Alexis Hiniker, Jacob O. Wobbrock. "Ability Heuristics for Conducting Accessibility Inspections." <i>Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (CHI 26)</i>. In press. 
+> Claire L. Mitchell, Junhan Kong, Jesse J Martinez, Shaun K. Kane, Amy J. Ko, Alexis Hiniker, Jacob O. Wobbrock. "Ability Heuristics for Conducting Accessibility Inspections." <i>Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (CHI 26)</i>. [https://doi.org/10.1145/3772318.3791504](https://doi.org/10.1145/3772318.3791504). 
