@@ -10,3 +10,5 @@ redirect_from:
 I am National Science Foundation Graduate Research Fellow in Information Science at the University of Washington where I am in the [ACE lab](http://depts.washington.edu/acelab/index.html), advised by [Jacob O. Wobbrock](http://faculty.washington.edu/wobbrock/). Prior to pursuing my PhD, I was a research engineer at [Delsys](https://delsys.com/). I graduated with a BS in Bioengineering and minor in Applied Mathematics at the University of Washington where I also worked in the [Neuromechanics & Mobility Lab](https://steelelab.me.uw.edu/).
 
 My research aims to understand how ability can be measured in human-computer interaction using wearable sensing tools to better improve interactive experiences.
+
+**Interested in HCI or wearable sensing research?** If you are an undergraduate or masters student looking to get involved in research that uses signal processing or AI/ML for HCI and wearable sensing applications please reach out!
